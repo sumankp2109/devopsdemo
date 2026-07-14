@@ -1,2 +1,0 @@
-# devopsdemo
-Devops workshop Training
